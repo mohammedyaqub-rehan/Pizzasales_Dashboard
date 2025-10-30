@@ -32,7 +32,7 @@ This project demonstrates strong analytical and visualization skills, showcasing
 
 
 Dashboard 1  Preview : https://github.com/mohammedyaqub-rehan/Pizzasales_Dashboard/blob/main/Snapshot%20of%20Dashboard%201.png
-Dashboard 2 Preview : 
+Dashboard 2 Preview : https://github.com/mohammedyaqub-rehan/Pizzasales_Dashboard/blob/main/Snapshot%20of%20Dashboard%202.png
 
 
 
