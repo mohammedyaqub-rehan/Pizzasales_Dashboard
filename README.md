@@ -31,6 +31,9 @@ The dashboard serves as a powerful tool for decision-making — helping identify
 This project demonstrates strong analytical and visualization skills, showcasing the ability to turn raw data into meaningful insights.
 
 
+Snapshot of Dashboard :
+
+
 
 
 
