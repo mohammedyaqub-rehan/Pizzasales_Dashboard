@@ -31,7 +31,8 @@ The dashboard serves as a powerful tool for decision-making — helping identify
 This project demonstrates strong analytical and visualization skills, showcasing the ability to turn raw data into meaningful insights.
 
 
-Snapshot of Dashboard :
+Dashboard 1  Preview : https://github.com/mohammedyaqub-rehan/Pizzasales_Dashboard/blob/main/Snapshot%20of%20Dashboard%201.png
+Dashboard 2 Preview : 
 
 
 
